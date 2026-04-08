@@ -21,7 +21,7 @@
 Clona el proyecto y ejecuta localmente:
 
 # Clonar repositorio
-git clone https://github.com/TU_USUARIO/TU_REPO.git
+git clone https://github.com/Nelius72/Clinica-Podologica.git
 
 # Entrar al proyecto
 cd TU_REPO
